@@ -21,7 +21,7 @@ noise_maxpower_original   = 10^((-80-30) / 10);            % % W
 trans_maxpower_all =0; % 
 
 error         = 0.01; 
-rate_min_dB   = [2]   ;   %bit/s/hz
+rate_min_dB   = [2]   ;   %bit/s/hz最小速率限制
 prob=0.05;
 
 %% Simulation loop %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
